@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Guilherme Lima Pereira
+- 👀 I’m interested in back-end
+- 🌱 I’m currently learning logic programming, java and javascript
+- 💞️ I’m looking to collaborate on a internship program
